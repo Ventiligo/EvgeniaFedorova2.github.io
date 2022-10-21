@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Графический-дизайн-1-hex { color: #0597F2; }
+.Графический-дизайн-2-hex { color: #1BB5F2; }
+.Графический-дизайн-3-hex { color: #1DCBF2; }
+.Графический-дизайн-4-hex { color: #22DDF2; }
+.Графический-дизайн-5-hex { color: #F2F2F2; }
+
+/* Color Theme Swatches in RGBA */
+.Графический-дизайн-1-rgba { color: rgba(5, 151, 242, 1); }
+.Графический-дизайн-2-rgba { color: rgba(27, 181, 242, 1); }
+.Графический-дизайн-3-rgba { color: rgba(29, 203, 242, 1); }
+.Графический-дизайн-4-rgba { color: rgba(34, 221, 242, 1); }
+.Графический-дизайн-5-rgba { color: rgba(242, 242, 242, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Графический-дизайн-1-hsla { color: hsla(203, 95, 48, 1); }
+.Графический-дизайн-2-hsla { color: hsla(197, 89, 52, 1); }
+.Графический-дизайн-3-hsla { color: hsla(190, 89, 53, 1); }
+.Графический-дизайн-4-hsla { color: hsla(186, 88, 54, 1); }
+.Графический-дизайн-5-hsla { color: hsla(0, 0, 94, 1); }
